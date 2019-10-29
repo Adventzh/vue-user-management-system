@@ -1,0 +1,56 @@
+{
+  "customers": [
+    {
+      "name": "张三",
+      "phone": "18568706965",
+      "email": "229357884@qq.com",
+      "education": "硕士",
+      "graduationschool": "西电",
+      "profession": "学生",
+      "profile": "个人简介为某人的简要介绍。个人简介可以是表格的形式，也可以是其他形式。一般用于初次见面时个人介绍中或者个人履历表中等。",
+      "id": 1
+    },
+    {
+      "name": "赵唱",
+      "phone": "13537845200",
+      "email": "229357884@qq.com",
+      "education": "硕士",
+      "graduationschool": "信大",
+      "profession": "学生",
+      "profile": "个人简介为某人的简要介绍。个人简介可以是表格的形式，也可以是其他形式。一般用于初次见面时个人介绍中或者个人履历表中等。",
+      "id": 2
+    },
+    {
+      "name": "蔡锦杨",
+      "phone": "15037660899",
+      "email": "229357884@qq.com",
+      "education": "硕士",
+      "graduationschool": "中南财经",
+      "profession": "学生",
+      "profile": "个人简介为某人的简要介绍。个人简介可以是表格的形式，也可以是其他形式。一般用于初次见面时个人介绍中或者个人履历表中等。",
+      "id": 3
+    },
+    {
+      "name": "王沛雯",
+      "phone": "15638298869",
+      "email": "229357884@qq.com",
+      "education": "本科",
+      "graduationschool": "郑大",
+      "profession": "学生",
+      "profile": "个人简介为某人的简要介绍。个人简介可以是表格的形式，也可以是其他形式。一般用于初次见面时个人介绍中或者个人履历表中等。",
+      "id": 4
+    },
+    {
+      "name": "2",
+      "phone": "2",
+      "email": "2",
+      "id": 6
+    },
+    {
+      "name": "gdsahgdja",
+      "phone": "fsdaf",
+      "email": "fsdafsaf",
+      "id": 7
+    }
+  ]
+}
