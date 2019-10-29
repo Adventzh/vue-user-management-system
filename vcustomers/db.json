@@ -2,8 +2,8 @@
   "customers": [
     {
       "name": "张三",
-      "phone": "18568706965",
-      "email": "229357884@qq.com",
+      "phone": "123456789",
+      "email": "987654321@qq.com",
       "education": "硕士",
       "graduationschool": "西电",
       "profession": "学生",
@@ -11,9 +11,9 @@
       "id": 1
     },
     {
-      "name": "赵唱",
-      "phone": "13537845200",
-      "email": "229357884@qq.com",
+      "name": "赵四",
+      "phone": "123456789",
+      "email": "987654321@qq.com",
       "education": "硕士",
       "graduationschool": "信大",
       "profession": "学生",
@@ -21,9 +21,9 @@
       "id": 2
     },
     {
-      "name": "蔡锦杨",
-      "phone": "15037660899",
-      "email": "229357884@qq.com",
+      "name": "蔡五",
+      "phone": "123456789",
+      "email": "987654321@qq.com",
       "education": "硕士",
       "graduationschool": "中南财经",
       "profession": "学生",
@@ -31,9 +31,9 @@
       "id": 3
     },
     {
-      "name": "王沛雯",
-      "phone": "15638298869",
-      "email": "229357884@qq.com",
+      "name": "王二",
+      "phone": "123456789",
+      "email": "987654321@qq.com",
       "education": "本科",
       "graduationschool": "郑大",
       "profession": "学生",
