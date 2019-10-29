@@ -1,19 +1,4 @@
-# vcustomers
+# 前端小白第一个vue小项目
 
-## Project setup
-```
-yarn install
-```
+## 用户管理系统
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
